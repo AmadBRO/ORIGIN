@@ -1,5 +1,4 @@
 My first change broyan
-My second change broyan
 Private Sub CommandButton1_Click()
 Dim sale As Single
 Dim i As Integer
